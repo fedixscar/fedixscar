@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm fedixscar
+# Hi there, I'm Fedi Yahiyaoui 
 
 ### A passionate developer
 
