@@ -69,12 +69,12 @@
 
 <div align="center">
 
-> *"The soul is healed by being with children."*
+> *"The mystery of human existence lies not in just staying alive, but in finding something to live for."*
 > — **Fyodor Dostoevsky**
 
 <br/>
 
-> *"A book must be the axe for the frozen sea within us."*
+> *"Paths are made by walking."*
 > — **Franz Kafka**
 
 </div>
