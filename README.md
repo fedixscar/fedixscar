@@ -34,12 +34,13 @@
 
 ### 🏆 GitHub Achievements
 
-<table>
+<table align="center">
   <tr>
-    <td align="center"><b>Pull Shark</b><br/><img src="https://github.com/github/explore/raw/main/topics/pull-request/pull-request.png" width="50px" alt="Pull Shark"/><br/><sub>Merged PRs</sub></td>
-    <td align="center"><b>Quickdraw</b><br/><img src="https://github.com/github/explore/raw/main/topics/automation/automation.png" width="50px" alt="Quickdraw"/><br/><sub>Fast Closer</sub></td>
-    <td align="center"><b>Pair Extraordinaire</b><br/><img src="https://github.com/github/explore/raw/main/topics/collaboration/collaboration.png" width="50px" alt="Pair Extraordinaire"/><br/><sub>Co-authored</sub></td>
-    <td align="center"><b>YOLO</b><br/><img src="https://github.com/github/explore/raw/main/topics/git/git.png" width="50px" alt="YOLO"/><br/><sub>Direct Merge</sub></td>
+    <td align="center"><b>Pull Shark</b><br/><img src="https://github.com/ryo-ma/github-profile-achievements/blob/main/images/pull-shark-default.png?raw=true" width="60px" alt="Pull Shark"/><br/><sub>Merged PRs</sub></td>
+    <td align="center"><b>Quickdraw</b><br/><img src="https://github.com/ryo-ma/github-profile-achievements/blob/main/images/quickdraw-default.png?raw=true" width="60px" alt="Quickdraw"/><br/><sub>Fast Closer</sub></td>
+    <td align="center"><b>Pair Extraordinaire</b><br/><img src="https://github.com/ryo-ma/github-profile-achievements/blob/main/images/pair-extraordinaire-default.png?raw=true" width="60px" alt="Pair Extraordinaire"/><br/><sub>Co-authored</sub></td>
+    <td align="center"><b>YOLO</b><br/><img src="https://github.com/ryo-ma/github-profile-achievements/blob/main/images/yolo-default.png?raw=true" width="60px" alt="YOLO"/><br/><sub>Direct Merge</sub></td>
+    <td align="center"><b>Galaxy Brain</b><br/><img src="https://github.com/ryo-ma/github-profile-achievements/blob/main/images/galaxy-brain-default.png?raw=true" width="60px" alt="Galaxy Brain"/><br/><sub>Answered Q&A</sub></td>
   </tr>
 </table>
 
