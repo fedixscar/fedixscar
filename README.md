@@ -30,4 +30,20 @@
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fedixscar&theme=radical" alt="GitHub Streak" />
 
+---
+
+### 🏆 GitHub Achievements
+
+<table>
+  <tr>
+    <td align="center"><b>Pull Shark</b><br/><img src="https://github.com/github/explore/raw/main/topics/pull-request/pull-request.png" width="50px" alt="Pull Shark"/><br/><sub>Merged PRs</sub></td>
+    <td align="center"><b>Quickdraw</b><br/><img src="https://github.com/github/explore/raw/main/topics/automation/automation.png" width="50px" alt="Quickdraw"/><br/><sub>Fast Closer</sub></td>
+    <td align="center"><b>Pair Extraordinaire</b><br/><img src="https://github.com/github/explore/raw/main/topics/collaboration/collaboration.png" width="50px" alt="Pair Extraordinaire"/><br/><sub>Co-authored</sub></td>
+    <td align="center"><b>YOLO</b><br/><img src="https://github.com/github/explore/raw/main/topics/git/git.png" width="50px" alt="YOLO"/><br/><sub>Direct Merge</sub></td>
+  </tr>
+</table>
+
+<br/>
+<img src="https://img.shields.io/badge/GitHub_Developer_Program-Member-white?style=flat-square&logo=github&logoColor=black" alt="Developer Program" />
+
 </div>
