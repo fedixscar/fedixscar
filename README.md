@@ -1,32 +1,39 @@
-# Fedi Yahiyaoui
-
 <p align="center">
-  <b>Full-Stack Engineer & Founder at <a href="https://xsyntra.netlify.app/">Syntra Agency</a></b><br>
-  <i>Architecting scalable digital solutions with a focus on premium UX and performance.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=Fedi%20Yahiyaoui&fontSize=50&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <a href="https://xsyntra.netlify.app/">Portfolio</a> • 
-  <a href="mailto:votre-email@exemple.com">Contact</a> • 
-  <a href="https://linkedin.com/in/votre-profil">LinkedIn</a>
+  <img src="./assets/banner.png" width="100%" alt="Senior Developer Banner" />
 </p>
 
----
+<div align="center">
 
-### 👨‍💻 Professional Synopsis
+**Senior Front-End Engineer | UI/UX Architect | Founder at Syntra**
 
-Senior Developer with a specialization in modern web architectures. I bridge the gap between complex backend systems and high-end, artisanal frontend experiences. As the founder of **Syntra**, I lead the development of enterprise-grade applications, focusing on reliability, security, and aesthetic excellence.
-
-### 🛠 Core Expertise
-
-- **Frontend Engineering**: React 18, Next.js, TypeScript, Tailwind CSS 4.0, Framer Motion.
-- **Backend & Infrastructure**: Node.js, Supabase (PostgreSQL), RESTful/GraphQL APIs, Serverless Architectures.
-- **DevOps & Tooling**: CI/CD Pipelines (GitHub Actions, Netlify), Docker, Vite, Performance Optimization.
-- **Design Systems**: Crafting custom, token-based design systems for scalable brand consistency.
+*Mastering the intersection of high-performance logic and artisanal digital aesthetics.*
 
 ---
 
-### 📊 Performance Metrics
+</div>
+
+### 🏗️ Technical Architecture
+
+| Excellence Area | Technologies & Methodologies |
+| :--- | :--- |
+| **Engine** | React 18, Next.js, TypeScript, State Machines (XState) |
+| **Visuals** | Tailwind CSS 4.0, Framer Motion, Three.js, Canvas |
+| **Logic** | Node.js, Supabase, GraphQL, Performance Profiling |
+| **Ops** | CI/CD, Infrastructure as Code, Vercel/Netlify Deployment |
+
+---
+
+### 🏛️ Professional Philosophy
+
+I specialize in building complex, interactive interfaces where performance is as important as the visual narrative. My approach combines **Senior-level architecture** with a deep understanding of **Modern Front-End patterns**, ensuring applications are scalable, accessible, and breathtaking.
+
+---
+
+### 📊 Engineering Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fedixscar&show_icons=true&theme=transparent&hide_border=true&title_color=gold&text_color=white&icon_color=gold" alt="GitHub Stats" />
@@ -38,18 +45,12 @@ Senior Developer with a specialization in modern web architectures. I bridge the
 
 ---
 
-### 🏆 Digital Contributions & Achievements
+<div align="center">
 
-*   **Founder of Syntra Agency** : Delivering premium digital products for a global clientele.
-*   **Open Source Contributor** : Passionate about clean code, documentation, and developer experience.
-*   **GitHub Achievement** : Pull Shark, Pair Extraordinaire, and continuous contributor to the ecosystem.
+[Syntra Agency](https://xsyntra.netlify.app/) • [Professional Inquiry](mailto:votre-email@exemple.com) • [LinkedIn Network](https://linkedin.com/in/votre-profil)
 
----
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub_Developer_Program-Member-black?style=flat-square&logo=github" alt="Developer Program" />
-</p>
+<img src="https://img.shields.io/badge/GitHub_Developer_Program-Member-black?style=flat-square&logo=github" alt="Developer Program" />
 
-<p align="center">
-  <i>"Simplicity is the ultimate sophistication." — Leonardo da Vinci</i>
-</p>
+</div>
