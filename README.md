@@ -1,48 +1,55 @@
-<div align="center">
-
-# Hi there, I'm Fedi Yahiyaoui 
-
-### A passionate developer
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-
----
-
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=fedixscar&show_icons=true&theme=radical" alt="GitHub Stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedixscar&layout=compact&theme=radical" alt="Top Langs" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fedixscar&theme=radical" alt="GitHub Streak" />
-
----
-
-### 🏆 GitHub Achievements
+# Fedi Yahiyaoui
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Achievement-Pull_Shark-blue?style=for-the-badge&logo=github" alt="Pull Shark" />
-  <img src="https://img.shields.io/badge/Achievement-Quickdraw-orange?style=for-the-badge&logo=github" alt="Quickdraw" />
-  <img src="https://img.shields.io/badge/Achievement-Pair_Extraordinaire-green?style=for-the-badge&logo=github" alt="Pair Extraordinaire" />
-  <img src="https://img.shields.io/badge/Achievement-YOLO-red?style=for-the-badge&logo=github" alt="YOLO" />
-  <img src="https://img.shields.io/badge/Achievement-Galaxy_Brain-purple?style=for-the-badge&logo=github" alt="Galaxy Brain" />
+  <b>Full-Stack Engineer & Founder at <a href="https://xsyntra.netlify.app/">Syntra Agency</a></b><br>
+  <i>Architecting scalable digital solutions with a focus on premium UX and performance.</i>
 </p>
 
-<br/>
-<img src="https://img.shields.io/badge/GitHub_Developer_Program-Member-white?style=flat-square&logo=github&logoColor=black" alt="Developer Program" />
+<p align="center">
+  <a href="https://xsyntra.netlify.app/">Portfolio</a> • 
+  <a href="mailto:votre-email@exemple.com">Contact</a> • 
+  <a href="https://linkedin.com/in/votre-profil">LinkedIn</a>
+</p>
 
-</div>
+---
+
+### 👨‍💻 Professional Synopsis
+
+Senior Developer with a specialization in modern web architectures. I bridge the gap between complex backend systems and high-end, artisanal frontend experiences. As the founder of **Syntra**, I lead the development of enterprise-grade applications, focusing on reliability, security, and aesthetic excellence.
+
+### 🛠 Core Expertise
+
+- **Frontend Engineering**: React 18, Next.js, TypeScript, Tailwind CSS 4.0, Framer Motion.
+- **Backend & Infrastructure**: Node.js, Supabase (PostgreSQL), RESTful/GraphQL APIs, Serverless Architectures.
+- **DevOps & Tooling**: CI/CD Pipelines (GitHub Actions, Netlify), Docker, Vite, Performance Optimization.
+- **Design Systems**: Crafting custom, token-based design systems for scalable brand consistency.
+
+---
+
+### 📊 Performance Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fedixscar&show_icons=true&theme=transparent&hide_border=true&title_color=gold&text_color=white&icon_color=gold" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedixscar&layout=compact&theme=transparent&hide_border=true&title_color=gold&text_color=white" alt="Top Langs" />
+</p>
+
+---
+
+### 🏆 Digital Contributions & Achievements
+
+*   **Founder of Syntra Agency** : Delivering premium digital products for a global clientele.
+*   **Open Source Contributor** : Passionate about clean code, documentation, and developer experience.
+*   **GitHub Achievement** : Pull Shark, Pair Extraordinaire, and continuous contributor to the ecosystem.
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub_Developer_Program-Member-black?style=flat-square&logo=github" alt="Developer Program" />
+</p>
+
+<p align="center">
+  <i>"Simplicity is the ultimate sophistication." — Leonardo da Vinci</i>
+</p>
