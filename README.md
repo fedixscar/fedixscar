@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**fedixscar/fedixscar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm fedixscar
 
-Here are some ideas to get you started:
+### A passionate developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</p>p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fedixscar&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedixscar&layout=compact&theme=radical" alt="Top Langs" />
+        <br/>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=fedixscar&theme=radical" alt="GitHub Streak" />
+</p>p>
+
+</div>
