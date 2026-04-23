@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:16213e&height=220&section=header&text=Fedi%20Yahiyaoui&fontSize=42&fontColor=d4af37&animation=fadeIn&fontAlignY=35&desc=Senior%20Front-End%20Engineer%20%7C%20UI%20Architect&descSize=16&descColor=a0a0a0&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:16213e&height=220&section=header&text=Fedi%20Yahiyaoui&fontSize=42&fontColor=d4af37&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer%20%7C%20Founder%20%40%20Syntra&descSize=16&descColor=a0a0a0&descAlignY=55" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+Premium+Digital+Experiences;Architecting+Scalable+Front-End+Systems;Founder+%40+Syntra+Agency" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+Premium+Digital+Experiences;Crafting+Scalable+Front-End+Systems;Founder+%40+Syntra+Agency" alt="Typing SVG" />
 
 <br/>
 
@@ -46,7 +46,7 @@
 
 <div align="center">
 
-### Engineering Metrics
+### Performance Metrics
 
 <br/>
 
