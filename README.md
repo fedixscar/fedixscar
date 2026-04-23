@@ -65,24 +65,17 @@
 
 ---
 
-<div align="center">
-
-### Professional Synopsis
-
-</div>
-
-<br/>
-
-> *Senior Front-End Engineer specialized in building complex, interactive interfaces*
-> *where performance is as critical as the visual narrative. I lead Syntra Agency,*
-> *delivering enterprise-grade digital products with a focus on scalable architecture,*
-> *design systems, and immersive user experiences powered by modern animation frameworks.*
-
 <br/>
 
 <div align="center">
 
-<a href="https://xsyntra.netlify.app/">Portfolio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/">LinkedIn</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="mailto:contact@syntra.dev">Contact</a>
+> *"The soul is healed by being with children."*
+> — **Fyodor Dostoevsky**
+
+<br/>
+
+> *"A book must be the axe for the frozen sea within us."*
+> — **Franz Kafka**
 
 </div>
 
