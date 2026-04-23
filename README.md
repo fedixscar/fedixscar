@@ -36,11 +36,11 @@
 
 <table align="center">
   <tr>
-    <td align="center"><b>Pull Shark</b><br/><img src="https://github.com/ryo-ma/github-profile-achievements/blob/main/images/pull-shark-default.png?raw=true" width="60px" alt="Pull Shark"/><br/><sub>Merged PRs</sub></td>
-    <td align="center"><b>Quickdraw</b><br/><img src="https://github.com/ryo-ma/github-profile-achievements/blob/main/images/quickdraw-default.png?raw=true" width="60px" alt="Quickdraw"/><br/><sub>Fast Closer</sub></td>
-    <td align="center"><b>Pair Extraordinaire</b><br/><img src="https://github.com/ryo-ma/github-profile-achievements/blob/main/images/pair-extraordinaire-default.png?raw=true" width="60px" alt="Pair Extraordinaire"/><br/><sub>Co-authored</sub></td>
-    <td align="center"><b>YOLO</b><br/><img src="https://github.com/ryo-ma/github-profile-achievements/blob/main/images/yolo-default.png?raw=true" width="60px" alt="YOLO"/><br/><sub>Direct Merge</sub></td>
-    <td align="center"><b>Galaxy Brain</b><br/><img src="https://github.com/ryo-ma/github-profile-achievements/blob/main/images/galaxy-brain-default.png?raw=true" width="60px" alt="Galaxy Brain"/><br/><sub>Answered Q&A</sub></td>
+    <td align="center"><b>Pull Shark</b><br/><img src="https://raw.githubusercontent.com/ryo-ma/github-profile-achievements/main/images/pull-shark-default.png" width="60px" alt="Pull Shark"/><br/><sub>Merged PRs</sub></td>
+    <td align="center"><b>Quickdraw</b><br/><img src="https://raw.githubusercontent.com/ryo-ma/github-profile-achievements/main/images/quickdraw-default.png" width="60px" alt="Quickdraw"/><br/><sub>Fast Closer</sub></td>
+    <td align="center"><b>Pair Extraordinaire</b><br/><img src="https://raw.githubusercontent.com/ryo-ma/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="60px" alt="Pair Extraordinaire"/><br/><sub>Co-authored</sub></td>
+    <td align="center"><b>YOLO</b><br/><img src="https://raw.githubusercontent.com/ryo-ma/github-profile-achievements/main/images/yolo-default.png" width="60px" alt="YOLO"/><br/><sub>Direct Merge</sub></td>
+    <td align="center"><b>Galaxy Brain</b><br/><img src="https://raw.githubusercontent.com/ryo-ma/github-profile-achievements/main/images/galaxy-brain-default.png" width="60px" alt="Galaxy Brain"/><br/><sub>Answered Q&A</sub></td>
   </tr>
 </table>
 
