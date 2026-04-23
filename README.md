@@ -34,15 +34,13 @@
 
 ### 🏆 GitHub Achievements
 
-<table align="center">
-  <tr>
-    <td align="center"><b>Pull Shark</b><br/><img src="https://raw.githubusercontent.com/ryo-ma/github-profile-achievements/main/images/pull-shark-default.png" width="60px" alt="Pull Shark"/><br/><sub>Merged PRs</sub></td>
-    <td align="center"><b>Quickdraw</b><br/><img src="https://raw.githubusercontent.com/ryo-ma/github-profile-achievements/main/images/quickdraw-default.png" width="60px" alt="Quickdraw"/><br/><sub>Fast Closer</sub></td>
-    <td align="center"><b>Pair Extraordinaire</b><br/><img src="https://raw.githubusercontent.com/ryo-ma/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="60px" alt="Pair Extraordinaire"/><br/><sub>Co-authored</sub></td>
-    <td align="center"><b>YOLO</b><br/><img src="https://raw.githubusercontent.com/ryo-ma/github-profile-achievements/main/images/yolo-default.png" width="60px" alt="YOLO"/><br/><sub>Direct Merge</sub></td>
-    <td align="center"><b>Galaxy Brain</b><br/><img src="https://raw.githubusercontent.com/ryo-ma/github-profile-achievements/main/images/galaxy-brain-default.png" width="60px" alt="Galaxy Brain"/><br/><sub>Answered Q&A</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Achievement-Pull_Shark-blue?style=for-the-badge&logo=github" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/Achievement-Quickdraw-orange?style=for-the-badge&logo=github" alt="Quickdraw" />
+  <img src="https://img.shields.io/badge/Achievement-Pair_Extraordinaire-green?style=for-the-badge&logo=github" alt="Pair Extraordinaire" />
+  <img src="https://img.shields.io/badge/Achievement-YOLO-red?style=for-the-badge&logo=github" alt="YOLO" />
+  <img src="https://img.shields.io/badge/Achievement-Galaxy_Brain-purple?style=for-the-badge&logo=github" alt="Galaxy Brain" />
+</p>
 
 <br/>
 <img src="https://img.shields.io/badge/GitHub_Developer_Program-Member-white?style=flat-square&logo=github&logoColor=black" alt="Developer Program" />
